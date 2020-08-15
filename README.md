@@ -13,3 +13,9 @@ Pre-Trained Model: https://drive.google.com/file/d/1ee_2X1Kqpyw9e56S32BcnZzXYQLh
 
 Classification task was performed to predict and here we have got an output of perfectly trained model of 96% accuracy.
 The seperately cropped files of seizure and non-seizure of chb01_03.edf has been used to train and predict the model accuracy. There we have achieved an accuracy of 97% on a mixed file of other seizure data.
+
+![Figure_1](https://user-images.githubusercontent.com/39180928/90306085-497d9500-dee7-11ea-8d27-3e1c137bcdfc.png)
+
+![Figure_2](https://user-images.githubusercontent.com/39180928/90306087-4d111c00-dee7-11ea-8eaa-a3482284f3db.png)
+
+![terminal](https://user-images.githubusercontent.com/39180928/90306088-4f737600-dee7-11ea-8330-f87008f65ca8.PNG)
