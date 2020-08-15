@@ -8,6 +8,7 @@ effects on neurodevelopment and optimal detection. The dataset presented in this
 of the EEG by the human experts, supporting clinical data and codes to assist access.
 
 Dataset: https://physionet.org/content/chbmit/1.0.0/ 
+
 Pre-Trained Model: https://drive.google.com/file/d/1ee_2X1Kqpyw9e56S32BcnZzXYQLhdlDt/view?usp=sharing
 
 Classification task was performed to predict and here we have got an output of perfectly trained model of 96% accuracy.
